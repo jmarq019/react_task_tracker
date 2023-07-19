@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "歯医者",
+      "day": "二月一日、午後の二時半",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "美容院の予約",
+      "day": "二月三日、 午後の一時",
+      "reminder": true
+    },
+    {
+      "text": "筋トレ",
+      "day": "七月十二日、午後の二時半",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
